@@ -1,0 +1,14 @@
+.form-container{
+    padding-top: 5em;
+    padding-left: 20em;
+    padding-right: 20em;
+    padding-bottom: 3em;
+}
+
+.btn{
+    background-color: #DDC1BE;
+}
+
+.btn:hover{
+    background-color: aqua;
+}

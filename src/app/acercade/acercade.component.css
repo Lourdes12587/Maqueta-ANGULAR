@@ -1,0 +1,24 @@
+.rounded-circle.w-25{
+    width: 12rem !important;
+    position:absolute;
+    z-index: 0;
+    margin-top: -6em;
+    margin-left: 5rem;
+    height: auto;
+    
+}
+
+.container-sobremi{
+    margin-top: 2em;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-bottom: 2rem;
+}
+.container-sobremi h4{
+    font-size: 1.2rem;
+    color: #DDC1BE;
+}
+
+.sobremi{
+    margin-top: 3rem;
+}
