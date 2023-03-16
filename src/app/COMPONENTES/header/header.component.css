@@ -68,7 +68,7 @@ html{
 .header{
     width: 100%;
     min-height: 100vh;
-    background-image: url();
+    background-image: url(./assets/Imagenes/banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
